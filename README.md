@@ -22,6 +22,15 @@ WHOIS_CHOICES=<list(str) Whatever you wanna put>
 
 Run the script using `python bot.py`.
 
+For Windows
+```bash
+pip install virtualenv
+cd villager-bot
+virtualenv env
+env\Scripts\activate
+```
+
+
 ## Commands
 Available commands:
 ```
