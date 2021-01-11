@@ -11,6 +11,13 @@ python3 -m venv villager-bot
 source villager-bot/bin/activate
 pip install -r requirements.txt
 ```
+Windows
+```bash
+pip install virtualenv
+cd villager-bot
+virtualenv env
+env\Scripts\activate
+```
 
 Create a `constants.py` file and add
 
